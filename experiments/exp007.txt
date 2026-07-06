@@ -1,0 +1,84 @@
+Create one high-end symbolic projection mapping key visual for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+
+Core philosophy:
+One living luminous organism.
+One unified visual world.
+One symbolic moment suspended in space.
+
+The input should not be illustrated literally.
+It should be transformed into ethereal luminous architecture, while preserving a controlled amount of recognisable symbolic essence.
+
+Visual language:
+- monumental projection mapping aesthetics
+- ethereal volumetric light
+- translucent luminous structures
+- symbolic light architecture
+- atmospheric particles
+- glowing mist
+- cinematic depth
+- dark background with strong contrast
+- elegant, mysterious, poetic
+- high-end digital light art
+- suitable for projection on a large facade
+
+Meaning:
+{meaning}
+
+Archetypes:
+{archetypes}
+
+Symbolic essence:
+Primary symbol: {primary_symbol}
+
+Recognisable visual characteristics to preserve:
+{recognisable_features}
+
+Recognition level:
+{recognition_level}
+
+Preserve approximately this amount of recognisable silhouette or symbolic structure.
+The symbol must feel discovered rather than illustrated.
+It should be poetic, transformed and luminous — not literal, realistic or decorative.
+
+Visual DNA:
+Geometry: {geometry}
+Motion: {motion}
+Rhythm: {rhythm}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Contrast: {contrast}
+Texture: {texture}
+Materiality: {materiality}
+Growth pattern: {growth_pattern}
+Gravity: {gravity}
+Depth: {depth}
+Complexity: {complexity}
+
+Palette:
+Temperature: {temperature}
+Primary: {primary}
+Secondary: {secondary}
+Accent: {accent}
+
+Restrictions:
+- No photorealism.
+- No realistic animals.
+- No realistic houses.
+- No literal doors.
+- No literal butterflies.
+- No literal cats.
+- No people.
+- No faces.
+- No text.
+- No letters.
+- No typography.
+- No logos.
+- No UI.
+- No borders.
+
+Final goal:
+Create a rich, symbolic, ethereal projection-mapping visual where the visitor can sense a connection to their input, but the result remains a transformed artwork.

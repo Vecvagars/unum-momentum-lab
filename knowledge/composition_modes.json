@@ -1,0 +1,19 @@
+{
+  "modes": [
+    "wide landscape",
+    "cinematic journey",
+    "golden ratio subject placement",
+    "soft centered hero",
+    "foreground framing",
+    "low horizon with open sky",
+    "side profile subject",
+    "diagonal movement",
+    "intimate close scene",
+    "panoramic emotional landscape"
+  ],
+  "avoid_repetition": [
+    "Do not always place the subject dead center.",
+    "Do not always use the same hero-poster composition.",
+    "Vary scale, camera distance and horizon placement."
+  ]
+}

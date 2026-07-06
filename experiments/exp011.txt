@@ -1,0 +1,124 @@
+Create one high-end symbolic projection mapping artwork for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+The theme is conceptual only. Do not write any text in the image.
+
+This must be a complete symbolic world, not an isolated glowing icon.
+
+STYLE LOCK:
+{style_positive}
+
+Visual requirements:
+{style_requirements}
+
+Palette bias:
+{palette_bias}
+
+Projection notes:
+{projection_notes}
+
+Meaning:
+Core meanings: {core_meanings}
+Human interpretation: {human_interpretation}
+
+Emotional Atmosphere:
+Primary feeling: {primary_feeling}
+Secondary feelings: {secondary_feelings}
+
+Atmosphere scores:
+Wonder: {wonder}
+Hope: {hope}
+Warmth: {warmth}
+Tenderness: {tenderness}
+Joy: {joy}
+Calm: {calm}
+Curiosity: {curiosity}
+Mystery: {mystery}
+Darkness: {darkness}
+Fear: {fear}
+Threat: {threat}
+
+Overall tone:
+{overall_tone}
+
+Archetypes:
+{archetypes}
+
+Central symbolic presence:
+Primary symbol: {primary_symbol}
+
+Must preserve:
+{must_preserve}
+
+Can abstract:
+{can_abstract}
+
+Recognition level:
+{recognition_level}
+
+Transformation intensity:
+{transformation_intensity}
+
+World Layer:
+Environment: {environment}
+Atmosphere: {atmosphere}
+Spatial language: {spatial_language}
+Color landscape: {color_landscape}
+Secondary symbols: {secondary_symbols}
+Visual forces: {visual_forces}
+
+State Journey:
+Before: {before_state}
+Moment: {moment_state}
+After: {after_state}
+
+Visual DNA:
+Geometry: {geometry}
+Motion: {motion}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Texture: {texture}
+Materiality: {materiality}
+Depth: {depth}
+Composition: {composition}
+
+Palette:
+Temperature: {palette_temperature}
+Primary: {primary}
+Secondary: {secondary}
+Accent: {accent}
+
+Art direction:
+Create an immersive painterly-surreal world around the central symbol or emotion.
+The central symbol should be recognisable but transformed into art.
+The world must feel alive, layered, cinematic, warm, ethereal and suitable for projection mapping on a large facade.
+
+Very important:
+The image should feel positive, inviting, poetic and emotionally luminous.
+Mystery is allowed only as gentle wonder, never as fear.
+
+Avoid:
+{style_negative}
+
+Hard restrictions:
+- no readable text
+- no letters
+- no words
+- no captions
+- no logos
+- no UI
+- no borders
+- no horror
+- no dark fantasy
+- no occult ritual mood
+- no threatening expressions
+- no monsters
+- no grim apocalyptic atmosphere
+
+Forbidden symbols for this specific input:
+{forbidden_symbols}
+
+Final goal:
+A rich symbolic world where the visitor recognises the essence of their input, but the result feels like a poetic, immersive, positive artwork.

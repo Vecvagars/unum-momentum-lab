@@ -1,0 +1,90 @@
+Create one high-end symbolic projection mapping key visual for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+
+The image must transform the visitor input into luminous symbolic architecture.
+
+Meaning:
+Core meanings: {core_meanings}
+Human interpretation: {human_interpretation}
+
+Emotional parameters:
+Temperature: {emotion_temperature}
+Brightness: {brightness}
+Movement energy: {movement_energy}
+Softness: {softness}
+Density: {density}
+Openness: {openness}
+Rhythm: {rhythm}
+
+Archetypes:
+{archetypes}
+
+Belonging domains:
+{belonging_domains}
+
+Canonical symbol:
+Primary: {primary_symbol}
+
+Must preserve:
+{must_preserve}
+
+Can abstract:
+{can_abstract}
+
+Recognition level:
+{recognition_level}
+
+Transformation intensity:
+{transformation_intensity}
+
+Interpretation instruction:
+Preserve the recognisable symbolic essence according to the recognition level.
+Transform the rest into ethereal luminous architecture according to transformation intensity.
+The symbol must feel discovered in light, not illustrated.
+
+Shared visual DNA:
+Geometry: {geometry}
+Motion: {motion}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Texture: {texture}
+Materiality: {materiality}
+Depth: {depth}
+Composition: {composition}
+
+Palette:
+Temperature: {palette_temperature}
+Primary: {primary}
+Secondary: {secondary}
+Accent: {accent}
+
+Global style:
+- monumental projection mapping aesthetics
+- living luminous organism
+- volumetric light
+- translucent glass / silk / mist
+- atmospheric particles
+- cinematic depth
+- dark background with strong contrast
+- elegant, mysterious, poetic
+- suitable for projection on a large facade
+
+Restrictions:
+- no photorealism
+- no realistic animals
+- no realistic houses
+- no literal ordinary objects
+- no people
+- no faces
+- no text
+- no letters
+- no typography
+- no logos
+- no UI
+- no borders
+
+Final goal:
+A powerful symbolic light artwork where the visitor recognises the essence of their input, but the result remains transformed, poetic and projection-friendly.

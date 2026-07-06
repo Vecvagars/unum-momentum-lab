@@ -1,0 +1,76 @@
+Create one high-end symbolic projection mapping artwork for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+
+This must be a complete symbolic world, not an isolated glowing icon.
+
+Meaning:
+Core meanings: {core_meanings}
+Human interpretation: {human_interpretation}
+
+Archetypes:
+{archetypes}
+
+Central symbolic presence:
+Primary symbol: {primary_symbol}
+
+Must preserve:
+{must_preserve}
+
+Can abstract:
+{can_abstract}
+
+Recognition level:
+{recognition_level}
+
+Transformation intensity:
+{transformation_intensity}
+
+World Layer:
+Environment: {environment}
+Atmosphere: {atmosphere}
+Spatial language: {spatial_language}
+Color landscape: {color_landscape}
+Secondary symbols: {secondary_symbols}
+Visual forces: {visual_forces}
+
+State Journey:
+Before: {before_state}
+Moment: {moment_state}
+After: {after_state}
+
+Visual DNA:
+Geometry: {geometry}
+Motion: {motion}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Texture: {texture}
+Materiality: {materiality}
+Depth: {depth}
+Composition: {composition}
+
+Palette:
+Temperature: {palette_temperature}
+Primary: {primary}
+Secondary: {secondary}
+Accent: {accent}
+
+Art direction:
+Create an immersive painterly-surreal world around the central symbol or emotion.
+The image should contain foreground, middle ground and background.
+Use rich color fields, atmospheric clouds, flowing forms, ornamental geometry, symbolic details, particles, architectural fragments and emotional landscape.
+The central symbol should be recognisable but transformed into art.
+The world must feel alive, layered, cinematic and suitable for projection mapping on a large facade.
+
+Avoid:
+- plain black background with a single icon
+- flat logo/poster composition
+- photorealism
+- ordinary literal illustration
+- text, letters, logos, UI, borders
+- realistic people or faces
+
+Final goal:
+A rich symbolic world where the visitor recognises the essence of their input, but the result feels like a poetic, immersive artwork.

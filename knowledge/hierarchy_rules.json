@@ -1,0 +1,105 @@
+{
+  "taurenis": {
+    "main_subject": "butterfly",
+    "main_subject_instruction": "A single butterfly must be the only dominant creature and the clear visual focus.",
+    "subject_importance": 1.0,
+    "allow_secondary_creatures": false,
+    "forbidden_as_subject": [
+      "bull",
+      "cow",
+      "bison",
+      "ox",
+      "horned animal",
+      "human",
+      "tree creature",
+      "monster"
+    ],
+    "background_elements": [
+      "sunrise meadow",
+      "soft flowers",
+      "floating pollen",
+      "gentle clouds",
+      "warm horizon"
+    ],
+    "decorative_elements": [
+      "golden particles",
+      "soft wing glow",
+      "subtle light trails"
+    ]
+  },
+  "durvis": {
+    "main_subject": "doorway / portal",
+    "main_subject_instruction": "A luminous doorway or portal must be the clear central threshold. Do not turn it into a mountain, eye, logo or written sign.",
+    "subject_importance": 0.95,
+    "allow_secondary_creatures": false,
+    "forbidden_as_subject": [
+      "human figure",
+      "eye",
+      "mountain as main subject",
+      "text",
+      "letters",
+      "symbolic logo"
+    ],
+    "background_elements": [
+      "inviting path",
+      "soft forest",
+      "warm light beyond the doorway",
+      "gentle mist"
+    ],
+    "decorative_elements": [
+      "floating feathers",
+      "soft particles",
+      "light rays"
+    ]
+  },
+  "māja": {
+    "main_subject": "house",
+    "main_subject_instruction": "A warm house must be the main subject, clearly readable as home and belonging.",
+    "subject_importance": 1.0,
+    "allow_secondary_creatures": false,
+    "forbidden_as_subject": [
+      "haunted house",
+      "abandoned house",
+      "dark empty house",
+      "flat icon"
+    ],
+    "background_elements": [
+      "soft hills",
+      "warm path",
+      "garden",
+      "evening sky",
+      "glowing windows"
+    ],
+    "decorative_elements": [
+      "warm smoke",
+      "fireflies",
+      "soft stars",
+      "gentle clouds"
+    ]
+  },
+  "kaķis": {
+    "main_subject": "cat",
+    "main_subject_instruction": "A cat must be the main subject, recognisable through ears, tail and graceful posture.",
+    "subject_importance": 1.0,
+    "allow_secondary_creatures": false,
+    "forbidden_as_subject": [
+      "dog",
+      "fox",
+      "wolf",
+      "monster",
+      "evil eyes",
+      "aggressive animal"
+    ],
+    "background_elements": [
+      "moonlit garden",
+      "soft archway",
+      "glowing particles",
+      "gentle plants"
+    ],
+    "decorative_elements": [
+      "small fireflies",
+      "soft moon glow",
+      "floating leaves"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "taurenis": {
+    "primary": "butterfly",
+    "must_preserve": [
+      "clear butterfly silhouette",
+      "bilateral symmetry",
+      "four delicate wings",
+      "thin central body",
+      "light wing membranes",
+      "gentle antennae"
+    ],
+    "can_abstract": [
+      "wing texture",
+      "internal patterns",
+      "edges dissolving into glowing atmosphere",
+      "body details"
+    ],
+    "forbidden": [
+      "bull",
+      "horns",
+      "cow",
+      "bison",
+      "ox",
+      "skull",
+      "beast",
+      "monster",
+      "moth with horns",
+      "human body",
+      "tree body"
+    ],
+    "recognition_level": 0.62
+  },
+  "durvis": {
+    "primary": "doorway / portal",
+    "must_preserve": [
+      "vertical threshold",
+      "opening",
+      "frame or arch",
+      "light beyond the opening",
+      "inviting path"
+    ],
+    "can_abstract": [
+      "surface texture",
+      "surrounding architecture",
+      "door material",
+      "landscape around the threshold"
+    ],
+    "forbidden": [
+      "written text",
+      "letters",
+      "words",
+      "signage",
+      "human figure"
+    ],
+    "recognition_level": 0.48
+  },
+  "māja": {
+    "primary": "house",
+    "must_preserve": [
+      "roof silhouette",
+      "warm inner window light",
+      "sheltering shape",
+      "sense of belonging",
+      "welcoming path"
+    ],
+    "can_abstract": [
+      "walls",
+      "garden",
+      "surrounding environment",
+      "smoke",
+      "landscape"
+    ],
+    "forbidden": [
+      "flat icon",
+      "childlike drawing",
+      "empty dark house",
+      "haunted house"
+    ],
+    "recognition_level": 0.50
+  },
+  "kaķis": {
+    "primary": "cat",
+    "must_preserve": [
+      "cat silhouette",
+      "pointed ears",
+      "curved tail",
+      "watchful posture",
+      "graceful body"
+    ],
+    "can_abstract": [
+      "fur",
+      "body details",
+      "environment",
+      "edges dissolving into mist"
+    ],
+    "forbidden": [
+      "dog",
+      "fox",
+      "wolf",
+      "monster",
+      "glowing evil eyes",
+      "aggressive posture"
+    ],
+    "recognition_level": 0.58
+  }
+}

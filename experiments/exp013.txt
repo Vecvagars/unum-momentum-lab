@@ -1,0 +1,144 @@
+Create one high-end symbolic projection mapping artwork for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+The theme is conceptual only. Do not write any text in the image.
+
+STYLE LOCK:
+{style_positive}
+
+Visual requirements:
+{style_requirements}
+
+Palette bias:
+{palette_bias}
+
+Projection notes:
+{projection_notes}
+
+Narrative principles:
+{narrative_principles}
+
+Composition variety rules:
+{composition_rules}
+
+Meaning:
+Core meanings: {core_meanings}
+Human interpretation: {human_interpretation}
+
+Emotional atmosphere:
+Primary feeling: {primary_feeling}
+Secondary feelings: {secondary_feelings}
+Overall tone: {overall_tone}
+
+SYMBOL HIERARCHY:
+Main subject: {main_subject}
+Main subject instruction: {main_subject_instruction}
+Subject importance: {subject_importance}
+Allow secondary creatures: {allow_secondary_creatures}
+
+The main subject must remain visually dominant.
+Do not introduce any other competing main creature, character, animal, logo or symbolic mascot.
+Secondary elements may support the story only as environment, atmosphere or decoration.
+
+Central symbolic presence:
+Primary symbol: {primary_symbol}
+
+Must preserve:
+{must_preserve}
+
+Can abstract:
+{can_abstract}
+
+Recognition level:
+{recognition_level}
+
+Transformation intensity:
+{transformation_intensity}
+
+Hierarchy background elements:
+{hierarchy_background}
+
+Hierarchy decorative elements:
+{hierarchy_decorative}
+
+World:
+Environment: {environment}
+Atmosphere: {world_atmosphere}
+Spatial language: {spatial_language}
+Color landscape: {color_landscape}
+Secondary symbols from semantic layer: {secondary_symbols}
+Visual forces: {visual_forces}
+
+Moment:
+Moment type: {moment_type}
+What is happening: {what_is_happening}
+Before: {before_moment}
+After: {after_moment}
+
+Narrative:
+Why it happens: {why_it_happens}
+Viewer experience: {viewer_experience}
+Short story: {short_story}
+
+Composition:
+Mode: {composition_mode}
+Camera view: {camera_view}
+Subject scale: {subject_scale}
+Foreground: {foreground}
+Middle ground: {middle_ground}
+Background: {background}
+
+Motion potential:
+Camera: {motion_camera}
+Subject motion: {subject_motion}
+Environment motion: {environment_motion}
+Light motion: {light_motion}
+Particle motion: {particle_motion}
+Motion speed: {motion_speed}
+Loopability: {loopability}
+
+Visual DNA:
+Geometry: {geometry}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Texture: {texture}
+Materiality: {materiality}
+Depth: {depth}
+
+Art direction:
+Create a complete painterly, immersive symbolic world.
+The scene must show a meaningful moment in progress.
+The main subject should be recognisable, emotionally clear and integrated into a rich world.
+The world should include foreground, middle ground and background.
+The image should imply motion through wind, light, particles, atmosphere, clouds and composition.
+
+Emotional direction:
+Positive, poetic, luminous, warm, inviting, gentle, hopeful and magical.
+Mystery is allowed only as gentle wonder.
+
+Avoid:
+{style_negative}
+
+Hard restrictions:
+- no readable text
+- no letters
+- no words
+- no captions
+- no logos
+- no UI
+- no borders
+- no horror
+- no dark fantasy
+- no occult ritual mood
+- no threatening expressions
+- no monsters
+- no grim atmosphere
+- no competing second main subject
+
+Forbidden symbols for this specific input:
+{forbidden_symbols}
+
+Final goal:
+A rich symbolic world where the visitor recognises the essence of their input, senses a story, and feels that the image could naturally become a living video.

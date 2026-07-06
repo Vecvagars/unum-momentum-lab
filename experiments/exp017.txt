@@ -1,0 +1,201 @@
+Create one high-end symbolic projection mapping artwork for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+The theme is conceptual only. Do not write any text in the image.
+
+STYLE LOCK:
+{style_positive}
+
+Visual requirements:
+{style_requirements}
+
+Palette bias:
+{palette_bias}
+
+Projection notes:
+{projection_notes}
+
+Visual memory:
+Avoid repeating these recent patterns too closely:
+{visual_memory}
+
+Meaning:
+Core meanings: {core_meanings}
+Human interpretation: {human_interpretation}
+
+Emotional atmosphere:
+Primary feeling: {primary_feeling}
+Secondary feelings: {secondary_feelings}
+Overall tone: {overall_tone}
+
+WORLD PHYSICS:
+Gravity: {gravity}
+Light logic: {light_logic}
+Atmosphere material: {atmosphere_material}
+Time flow: {time_flow}
+Geometry logic: {geometry_logic}
+Material reality: {material_reality}
+Space distortion: {space_distortion}
+Physics summary: {physics_summary}
+
+Important:
+The physics of this world must visibly affect the image.
+Do not create the same soft misty world for every input.
+Let gravity, light, air, time, material and geometry change the visual reality.
+
+WORLD PERSONALITY:
+Personality keywords:
+{personality_keywords}
+World temperament: {world_temperament}
+World rhythm: {world_rhythm}
+Spatial feeling: {spatial_feeling}
+Emotional weather: {emotional_weather}
+Dominant world behavior: {dominant_world_behavior}
+
+WORLD BEHAVIOUR:
+How space behaves: {how_space_behaves}
+How light behaves: {how_light_behaves}
+How nature behaves: {how_nature_behaves}
+How air behaves: {how_air_behaves}
+How time feels: {how_time_feels}
+What the world wants: {what_the_world_wants}
+
+SYMBOL HIERARCHY:
+Main subject: {main_subject}
+Main subject instruction: {main_subject_instruction}
+Subject importance: {subject_importance}
+Allow secondary creatures: {allow_secondary_creatures}
+
+The main subject must remain visually dominant.
+Do not introduce any other competing main creature, character, animal, logo or symbolic mascot.
+Secondary elements may support the story only as environment, atmosphere or decoration.
+
+Central symbolic presence:
+Primary symbol: {primary_symbol}
+
+Must preserve:
+{must_preserve}
+
+Can abstract:
+{can_abstract}
+
+Recognition level:
+{recognition_level}
+
+Transformation intensity:
+{transformation_intensity}
+
+World:
+Environment: {environment}
+Atmosphere: {world_atmosphere}
+Spatial language: {spatial_language}
+Color landscape: {color_landscape}
+Secondary symbols from semantic layer: {secondary_symbols}
+Visual forces: {visual_forces}
+
+Moment:
+Moment type: {moment_type}
+What is happening: {what_is_happening}
+Before: {before_moment}
+After: {after_moment}
+
+Narrative:
+Why it happens: {why_it_happens}
+Viewer experience: {viewer_experience}
+Short story: {short_story}
+
+Scene Director:
+Camera focus: {camera_focus}
+Visual climax: {visual_climax}
+Emotional peak: {emotional_peak}
+Subject action: {subject_action}
+Environment response: {environment_response}
+Light event: {light_event}
+Symbol interaction: {symbol_interaction}
+Viewer position: {viewer_position}
+Cinematic scale: {cinematic_scale}
+
+Living World:
+World as character: {world_as_character}
+How the world reacts: {how_world_reacts}
+Living details:
+{living_details}
+Environment emotion: {environment_emotion}
+Sense of presence: {sense_of_presence}
+
+Visual Tension:
+Central question: {central_question}
+Hidden element: {hidden_element}
+Unresolved moment: {unresolved_moment}
+Viewer pull: {viewer_pull}
+Contrast: {contrast}
+Tension level: {tension_level}
+What should remain mysterious: {what_should_remain_mysterious}
+
+Composition:
+Mode: {composition_mode}
+Camera view: {camera_view}
+Subject scale: {subject_scale}
+Foreground: {foreground}
+Middle ground: {middle_ground}
+Background: {background}
+
+Motion potential:
+Camera move: {camera_move}
+Subject animation: {subject_animation}
+Secondary animation: {secondary_animation}
+Environment animation: {environment_animation}
+Light animation: {light_animation}
+Particle animation: {particle_animation}
+First frame: {first_frame}
+Last frame: {last_frame}
+Loop point: {loop_point}
+Motion speed: {motion_speed}
+Loopability: {loopability}
+
+Visual DNA:
+Geometry: {geometry}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Texture: {texture}
+Materiality: {materiality}
+Depth: {depth}
+
+Art direction:
+Create a complete painterly, immersive symbolic world.
+The scene must show a meaningful moment in progress.
+The world must have distinct physics, personality and behaviour.
+The world must not be a passive background.
+The composition should feel directed like a cinematic concept-art frame.
+The image should imply future animation through light, wind, particles, atmosphere, clouds and subtle subject action.
+
+Emotional direction:
+Positive, poetic, luminous, inviting, gentle, hopeful and magical.
+Mystery is allowed only as gentle wonder.
+
+Avoid:
+{style_negative}
+
+Hard restrictions:
+- no readable text
+- no letters
+- no words
+- no captions
+- no logos
+- no UI
+- no borders
+- no horror
+- no dark fantasy
+- no occult ritual mood
+- no threatening expressions
+- no monsters
+- no grim atmosphere
+- no competing second main subject
+
+Forbidden symbols for this specific input:
+{forbidden_symbols}
+
+Final goal:
+A rich symbolic world where the visitor recognises the essence of their input, senses a story, feels curiosity, and feels that this world follows its own visual laws.

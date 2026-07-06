@@ -1,0 +1,74 @@
+Create one high-end symbolic projection mapping key visual for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+
+This image is generated from Visual DNA, not from literal objects.
+
+Core philosophy:
+One living luminous organism.
+One unified visual world.
+One symbolic moment suspended in space.
+The input must not be drawn literally.
+
+Visual language:
+- monumental projection mapping aesthetics
+- ethereal volumetric light
+- translucent luminous structures
+- symbolic light architecture
+- atmospheric particles
+- glowing mist
+- cinematic depth
+- dark background with strong contrast
+- elegant, mysterious, poetic
+- high-end digital light art
+- suitable for projection on a large facade
+
+Meaning:
+{meaning}
+
+Archetypes:
+{archetypes}
+
+Visual DNA:
+Geometry: {geometry}
+Motion: {motion}
+Rhythm: {rhythm}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Contrast: {contrast}
+Texture: {texture}
+Materiality: {materiality}
+Growth pattern: {growth_pattern}
+Gravity: {gravity}
+Depth: {depth}
+Complexity: {complexity}
+
+Palette:
+Temperature: {temperature}
+Primary: {primary}
+Secondary: {secondary}
+Accent: {accent}
+
+Restrictions:
+- No literal objects.
+- No animals.
+- No birds.
+- No houses.
+- No doors.
+- No butterflies.
+- No cats.
+- No trees.
+- No flowers.
+- No people.
+- No faces.
+- No text.
+- No letters.
+- No typography.
+- No logos.
+- No UI.
+- No borders.
+
+Final goal:
+Create a rich, symbolic, ethereal projection-mapping visual that feels alive and could later be animated into a living video.

@@ -1,0 +1,40 @@
+Create projection mapping source material for a nighttime light festival.
+
+This is not a poster.
+This is not an illustration.
+This is not concept art.
+This is not a wallpaper.
+
+Create only light phenomena.
+
+No objects.
+No central subject.
+No single focal point.
+No figurative composition.
+No decorative emblem.
+No realistic building design.
+No characters.
+No faces.
+No text.
+No typography.
+No logos.
+No UI.
+No borders.
+
+The image should feel like light existing in air:
+volumetric light,
+atmospheric particles,
+transparent energy layers,
+glowing mist,
+deep darkness,
+spatial depth,
+large-scale projection material,
+high-end VJ visual texture,
+architectural projection mapping source.
+
+The result must be suitable as a moving visual layer projected over a large facade.
+
+Art direction:
+{prompt}
+
+Make it monumental, immersive, alive, atmospheric and projection-friendly.

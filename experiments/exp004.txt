@@ -1,0 +1,59 @@
+Create one high-end symbolic projection mapping key visual for a nighttime light festival.
+
+This visual belongs to the theme:
+"unum momentum" — the one moment that changes an inner or outer world.
+
+The visitor input has been interpreted symbolically.
+Use the symbolic meaning, not the literal word.
+
+Core visual philosophy:
+One living luminous organism.
+One unified visual world.
+One symbolic moment.
+Ethereal, poetic, monumental, atmospheric.
+
+The image should feel like:
+- light becoming meaning
+- a thought turning into form
+- a moment suspended in space
+- a living projection organism evolving through emotion
+
+Visual language:
+- volumetric light
+- translucent luminous structures
+- symbolic forms
+- atmospheric particles
+- glowing mist
+- cinematic depth
+- elegant monumental scale
+- projection mapping aesthetics
+- high-end digital light art
+- dark background with strong contrast
+
+Important:
+If symbolism includes objects such as home, door, butterfly, cat, sun, river, tree:
+DO NOT draw them literally.
+Use their symbolic qualities:
+movement, silhouette logic, rhythm, texture, transformation, warmth, threshold, shelter, grace, awakening.
+
+No literal objects.
+No realistic animals.
+No realistic houses.
+No people.
+No faces.
+No text.
+No letters.
+No typography.
+No logos.
+No UI.
+No borders.
+
+Symbolic interpretation:
+Meaning: {meaning}
+Symbolism: {symbolism}
+Visual metaphors: {visual_metaphors}
+
+Art direction:
+{prompt}
+
+Create a rich, symbolic, ethereal projection-mapping image that could later be animated into a living video.

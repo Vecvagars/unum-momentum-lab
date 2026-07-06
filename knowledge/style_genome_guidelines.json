@@ -1,0 +1,44 @@
+{
+  "global_style_rules": [
+    "Maintain a sophisticated painterly projection-art look",
+    "Never become cartoon, cute illustration, mascot art, children-book illustration or photorealistic animal portrait",
+    "Style variation must appear through brushwork, pigment behaviour, texture, edge quality, ornament, contrast and color accents",
+    "Keep recognisable symbols, but render them as poetic projection artwork",
+    "Avoid over-realistic fur, faces, eyes, paws, expressions or animal anatomy",
+    "Avoid generic warm orange-blue watercolor sameness"
+  ],
+  "allowed_style_variation": [
+    "brush stroke direction",
+    "pigment granulation",
+    "translucent glazing",
+    "fresco surface texture",
+    "pastel dust",
+    "ink wash edges",
+    "stained-glass glow",
+    "textile-like woven texture",
+    "luminous contour lines",
+    "decorative symbolic patterning",
+    "controlled accent colors"
+  ],
+  "forbidden_style_drift": [
+    "cartoon",
+    "cute character",
+    "children book",
+    "pixar",
+    "anime",
+    "mascot",
+    "photorealistic",
+    "realistic pet portrait",
+    "over-detailed fur",
+    "flat illustration",
+    "clipart",
+    "logo-like icon"
+  ],
+  "preferred_base": [
+    "projection mapping concept art",
+    "symbolic painterly mural",
+    "large scale luminous public artwork",
+    "poetic festival projection",
+    "softly cinematic but not photorealistic"
+  ]
+}

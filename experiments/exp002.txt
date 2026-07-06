@@ -1,0 +1,37 @@
+Create a projection mapping visual designed for monumental architecture.
+
+Not an illustration.
+Not a wallpaper.
+Not concept art.
+
+This image will be projected onto a large historic building facade.
+
+Create large-scale luminous structures.
+Volumetric light.
+Layered transparent energy.
+Architectural scale.
+Light sculptures.
+Massive flowing forms.
+Projection mapping aesthetics.
+High-end VJ visuals.
+Festival installation.
+Rich detail.
+Deep contrast.
+Dark background.
+
+No text.
+No letters.
+No typography.
+No people.
+No faces.
+No logos.
+No UI.
+No borders.
+No realistic standalone objects.
+
+The visual should occupy the entire facade and feel physically present.
+
+Art direction:
+{prompt}
+
+The image must feel like one frame from a continuous living light organism evolving through emotions.

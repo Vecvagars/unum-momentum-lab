@@ -1,0 +1,73 @@
+{
+  "style_name": "ethereal_luminous_recovery_v2",
+  "core_intent": "Create poetic, luminous, emotionally positive projection artwork. The image should feel like a dream-world, not a realistic painting, not dark fantasy, not a poster.",
+  "visual_dna": {
+    "mood": [
+      "hopeful",
+      "gentle",
+      "warm",
+      "ethereal",
+      "light-filled",
+      "poetic",
+      "wonderful",
+      "calmly magical"
+    ],
+    "light": [
+      "inner glow",
+      "soft radiance",
+      "warm amber light",
+      "gentle ivory highlights",
+      "misty teal atmosphere",
+      "subtle luminous particles"
+    ],
+    "color_palette": [
+      "warm amber",
+      "soft gold",
+      "gentle ivory",
+      "misty teal",
+      "dreamy blue",
+      "soft peach",
+      "muted lavender",
+      "morning glow"
+    ],
+    "brush_language": [
+      "soft expressive brushstrokes",
+      "dreamlike painted atmosphere",
+      "subtle texture",
+      "luminous color transitions",
+      "suggestive forms",
+      "soft edges",
+      "air-filled composition"
+    ],
+    "avoid": [
+      "dark fantasy",
+      "horror",
+      "grim",
+      "sinister",
+      "heavy oil painting",
+      "thick impasto",
+      "muddy brown palette",
+      "burnt umber dominance",
+      "raw umber dominance",
+      "realistic animal photography",
+      "cartoon",
+      "childrens book illustration",
+      "game concept art",
+      "poster design",
+      "text",
+      "letters",
+      "logo",
+      "caption",
+      "words",
+      "typography"
+    ]
+  },
+  "prompt_rules": {
+    "emotion_before_detail": true,
+    "symbol_should_be_recognizable": true,
+    "world_should_feel_alive": true,
+    "avoid_overdescribing": true,
+    "prefer_light_over_material": true,
+    "prefer_poetry_over_realism": true
+  }
+}

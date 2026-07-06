@@ -1,0 +1,108 @@
+{
+  "style_name": "unum_momentum_warm_ethereal_world",
+  "positive_direction": [
+    "warm ethereal painterly world",
+    "soft luminous atmosphere",
+    "inviting magical realism",
+    "dreamlike emotional landscape",
+    "rich colors without darkness becoming scary",
+    "gentle wonder",
+    "poetic festival projection artwork",
+    "light-filled symbolic environment",
+    "soft cinematic glow",
+    "hopeful and human"
+  ],
+  "visual_requirements": [
+    "complete world, not isolated icon",
+    "foreground, middle ground and background",
+    "central symbol integrated into the world",
+    "rich painterly color fields",
+    "soft clouds, mist, particles and flowing forms",
+    "ornamental details used gently",
+    "projection-friendly large shapes",
+    "clear emotional readability",
+    "no empty black background"
+  ],
+  "negative_direction": [
+    "dark fantasy",
+    "horror",
+    "occult",
+    "ritual",
+    "grim",
+    "evil",
+    "menacing",
+    "apocalyptic",
+    "creepy",
+    "monster-like",
+    "violent",
+    "sacrificial",
+    "nightmare",
+    "logo",
+    "poster",
+    "flat icon",
+    "photorealistic",
+    "text",
+    "letters",
+    "typography"
+    "cartoon",
+    "cute mascot",
+    "children-book illustration",
+    "pixar",
+    "disney",
+    "anime",
+    "photorealistic",
+    "realistic animal portrait",
+    "over-detailed fur",
+    "flat illustration",
+    "clipart",
+    "logo-like icon",
+    "generic fantasy poster"
+  ],
+  "palette_bias": [
+    "warm gold",
+    "soft amber",
+    "gentle teal",
+    "misty blue",
+    "sunrise peach",
+    "soft lavender",
+    "deep but friendly ultramarine",
+    "glowing cream"
+  ],
+  "projection_notes": [
+    "large readable composition",
+    "avoid tiny detail as main subject",
+    "suitable for building facade",
+    "high emotional contrast but not horror",
+    "immersive mural-like world"
+  ]
+}
+
+"cartoon",
+"cute mascot",
+"children-book illustration",
+"pixar",
+"disney",
+"anime",
+"photorealistic",
+"realistic animal portrait",
+"over-detailed fur",
+"flat illustration",
+"clipart",
+"logo-like icon",
+"generic fantasy poster"^x
+
+
+"cartoon",
+"cute mascot",
+"children-book illustration",
+"pixar",
+"disney",
+"anime",
+"photorealistic",
+"realistic animal portrait",
+"over-detailed fur",
+"flat illustration",
+"clipart",
+"logo-like icon",
+"generic fantasy poster"
+

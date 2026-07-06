@@ -1,0 +1,124 @@
+Create one high-end symbolic projection mapping artwork for a nighttime light festival.
+
+Theme:
+"unum momentum" — one moment that changes an inner or outer world.
+The theme is conceptual only. Do not write any text in the image.
+
+This must be a complete symbolic world, not an isolated glowing icon.
+
+STYLE LOCK:
+{style_positive}
+
+Visual requirements:
+{style_requirements}
+
+Palette bias:
+{palette_bias}
+
+Projection notes:
+{projection_notes}
+
+Meaning:
+Core meanings: {core_meanings}
+Human interpretation: {human_interpretation}
+
+Emotional atmosphere:
+Primary feeling: {primary_feeling}
+Secondary feelings: {secondary_feelings}
+Overall tone: {overall_tone}
+
+Central symbolic presence:
+Primary symbol: {primary_symbol}
+
+Must preserve:
+{must_preserve}
+
+Can abstract:
+{can_abstract}
+
+Recognition level:
+{recognition_level}
+
+Transformation intensity:
+{transformation_intensity}
+
+World:
+Environment: {environment}
+Atmosphere: {world_atmosphere}
+Spatial language: {spatial_language}
+Color landscape: {color_landscape}
+Secondary symbols: {secondary_symbols}
+Visual forces: {visual_forces}
+
+Moment:
+Moment type: {moment_type}
+What is happening: {what_is_happening}
+Before: {before_moment}
+After: {after_moment}
+
+Narrative:
+Why it happens: {why_it_happens}
+Viewer experience: {viewer_experience}
+Short story: {short_story}
+
+Composition:
+Mode: {composition_mode}
+Camera view: {camera_view}
+Subject scale: {subject_scale}
+Foreground: {foreground}
+Middle ground: {middle_ground}
+Background: {background}
+
+Motion potential:
+Camera: {motion_camera}
+Subject motion: {subject_motion}
+Environment motion: {environment_motion}
+Light motion: {light_motion}
+Particle motion: {particle_motion}
+Motion speed: {motion_speed}
+Loopability: {loopability}
+
+Visual DNA:
+Geometry: {geometry}
+Layering: {layering}
+Light source: {light_source}
+Light behavior: {light_behavior}
+Texture: {texture}
+Materiality: {materiality}
+Depth: {depth}
+
+Art direction:
+Create an immersive painterly-surreal world around the central symbol or emotion.
+The image should show a meaningful moment in progress.
+It should feel like something is gently happening, not like a static poster.
+The world must have foreground, middle ground and background.
+The central symbol should be recognisable but transformed into art.
+The scene should already imply future animation through light, wind, particles, clouds, movement paths, flowing atmosphere and changing illumination.
+
+Emotional direction:
+Positive, poetic, luminous, warm, inviting, gentle, hopeful and magical.
+Mystery is allowed only as gentle wonder.
+
+Avoid:
+{style_negative}
+
+Hard restrictions:
+- no readable text
+- no letters
+- no words
+- no captions
+- no logos
+- no UI
+- no borders
+- no horror
+- no dark fantasy
+- no occult ritual mood
+- no threatening expressions
+- no monsters
+- no grim atmosphere
+
+Forbidden symbols for this specific input:
+{forbidden_symbols}
+
+Final goal:
+A rich symbolic world where the visitor recognises the essence of their input, senses a story, and feels that the image could naturally become a living video.
