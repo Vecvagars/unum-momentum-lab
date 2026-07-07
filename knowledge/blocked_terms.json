@@ -1,0 +1,25 @@
+{
+  "contains": [
+    "fuck",
+    "shit",
+    "bitch",
+    "pimpis",
+    "dirsā",
+    "dirsa",
+    "nahuj",
+    "bļeģ",
+    "bleg",
+    "nazi",
+    "hitler",
+    "kuce",
+    "mauka",
+    "krusts"
+  ],
+  "regex": [
+    "\\bf+u+c+k+\\b",
+    "\\bs+h+i+t+\\b",
+    "\\bn+a+h+u+j+\\b",
+    "\\bb[lļ]+e[gģ]+\\b",
+    "\\bd+i+r+s+[aā]+\\b"
+  ]
+}

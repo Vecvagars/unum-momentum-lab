@@ -1,14 +1,24 @@
 import os
 from pathlib import Path
+
 from dotenv import load_dotenv
+from openai import OpenAI
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-ENV_PATH = BASE_DIR / ".env"
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+load_dotenv(PROJECT_ROOT / ".env")
 
-load_dotenv(dotenv_path=ENV_PATH)
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-LUMA_API_KEY = os.getenv("LUMA_API_KEY")
+def require_env(name: str) -> str:
+    value = os.getenv(name)
+    if not value:
+        raise RuntimeError(f"Missing required environment variable: {name}")
+    return value
 
-if not OPENAI_API_KEY:
-    raise RuntimeError(f"OPENAI_API_KEY not found. Checked: {ENV_PATH}")
+
+def get_openai_client() -> OpenAI:
+    api_key = require_env("OPENAI_API_KEY")
+    return OpenAI(api_key=api_key)
+
+
+def get_luma_api_key() -> str:
+    return require_env("LUMA_API_KEY")

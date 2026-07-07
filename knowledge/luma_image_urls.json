@@ -1,7 +1,11 @@
 {
   "taurenis": "https://raw.githubusercontent.com/Vecvagars/unum-momentum-lab/472a28bab8fc045d3297bba4e70c0ecb3f86a25f/public_assets/taurenis.png",
-  "kaķis": "",
+  "kaķis": "https://raw.githubusercontent.com/Vecvagars/unum-momentum-lab/989a2185aa03a6ac7c5ca82591c2348cac091699/public_assets/kaķis.png",
   "māja": "",
   "durvis": "https://raw.githubusercontent.com/Vecvagars/unum-momentum-lab/e85f54813652ff2d19fa45b69c38c88518861b52/public_assets/durvis.png",
-  "cerība": ""
+  "cerība": "",
+  "kaija": "https://raw.githubusercontent.com/Vecvagars/unum-momentum-lab/83efc0949b734e80a11aa28bc38d1e4f92e7b9fd/public_assets/kaija.png",
+  "bizbizmārīte": "https://raw.githubusercontent.com/Vecvagars/unum-momentum-lab/7c06f99f574510fc4520fa9624aa3f10b7a67ec1/public_assets/bizbizmārīte.png",
+  "lapsa": "https://raw.githubusercontent.com/Vecvagars/unum-momentum-lab/71eb4355499cd2aeec1c4548eae25ac784d95f7c/public_assets/lapsa.png",
+  "laime": "https://raw.githubusercontent.com/Vecvagars/unum-momentum-lab/379486cd585354f3a5d0194c5db82571117c841f/public_assets/laime.png"
 }

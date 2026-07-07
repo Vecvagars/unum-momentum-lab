@@ -28,6 +28,16 @@ def get_motion_profile(word):
             "environment_motion": "Mist flows gently toward the doorway, particles drift through the opening, warm light expands outward.",
             "camera": "Slow push forward toward the doorway, as if approaching the threshold."
         },
+        "lapsa": {
+            "subject_motion": "The fox moves gracefully through the scene with a slow natural step. Its head turns slightly, ears react subtly, and its long bushy tail flows gently behind it.",
+            "environment_motion": "Grass and leaves move softly around the fox, warm particles drift through the air, and the surrounding light shifts gently.",
+            "camera": "Very slow cinematic tracking movement following the fox from a respectful distance."
+        },
+        "fox": {
+            "subject_motion": "The fox moves gracefully through the scene with a slow natural step. Its head turns slightly, ears react subtly, and its long bushy tail flows gently behind it.",
+            "environment_motion": "Grass and leaves move softly around the fox, warm particles drift through the air, and the surrounding light shifts gently.",
+            "camera": "Very slow cinematic tracking movement following the fox from a respectful distance."
+        },
         "cerība": {
             "subject_motion": "The glowing sprout slowly grows upward, leaves unfold gently, light rises from the ground.",
             "environment_motion": "Small particles float upward, the surrounding field brightens slowly, clouds open softly.",

@@ -58,6 +58,14 @@ def build_symbol_instruction(word):
             "subject": "a luminous open doorway, clearly recognizable as a door, leading into warm light",
             "avoid": "Do not turn it into a mountain, portal logo, monument, building facade, projection mockup, or abstract arch only."
         },
+        "lapsa": {
+            "subject": "one clearly recognizable fox with pointed ears, long bushy tail, slender body and warm orange-red fur, poetic and painterly",
+            "avoid": "Do not depict a bird, seagull, dog, wolf, cat, monster, photorealistic animal portrait, or cartoon mascot."
+        },
+        "fox": {
+            "subject": "one clearly recognizable fox with pointed ears, long bushy tail, slender body and warm orange-red fur, poetic and painterly",
+            "avoid": "Do not depict a bird, seagull, dog, wolf, cat, monster, photorealistic animal portrait, or cartoon mascot."
+        },
         "cerība": {
             "subject": "a rising warm light, opening forms, young leaves, and a sense of new beginning",
             "avoid": "Do not make it sad, empty, dark, apocalyptic, overly abstract, or placed on a building facade."
